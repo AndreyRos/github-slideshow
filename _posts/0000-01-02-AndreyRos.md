@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Use the left arrow to go back
+:trollface: ~~this~~ `<addr>` > We're living the future so [GitHub] (http://github.com ![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+Use the left arrow to go back 
